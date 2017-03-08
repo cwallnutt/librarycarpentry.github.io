@@ -95,5 +95,18 @@ Our Lessons
       </td>
     </tr>
 
-  </tbody>
+    <tr>
+      <td>
+        <a href="http://jezcope.github.io/library-spreadsheets/"><b>Tidy data for Librarians</b> <em>work in progress</em></a>
+      </td>
+      <td><i>Introduces the principles and benefits of keeping your data tidy. At the conclusion of the lesson you will</i>:
+        <ul>
+          <li>Understand what it means to keep your data tidy</li>
+          <li>Understand why tidy data is better</li>
+          <li>Use simple techniques in Excel to improve the quality of new and existing data</li>
+        </ul>
+      </td>
+    </tr>
+
+  </tbody>
 </table>
