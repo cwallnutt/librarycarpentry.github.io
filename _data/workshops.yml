@@ -358,8 +358,9 @@ workshops:
     longitude: 147.3227953
     who: "Belinda Weaver"
     numbers: null
-    what: "Jargon busting, RegEx, Shell, Open Refine"
+    what: "Jargon busting, regex, Shell, Open Refine"
     notes: "This is one of a series of workshops funded by NSLA."
+    url: "https://weaverbel.github.io/nsla-roadshow/"
     blogs: null
   - venue: "State Library of Queensland, Brisbane"
     humandate: "19 July, 2017"
@@ -369,8 +370,9 @@ workshops:
     longitude: 153.0159242
     who: "Belinda Weaver, Sam Hames"
     numbers: null
-    what: "Jargon busting, RegEx, Shell, Open Refine"
+    what: "Jargon busting, regex, Shell, Open Refine"
     notes: "This is one of a series of workshops funded by NSLA."
+    url: "https://weaverbel.github.io/nsla-roadshow/"
     blogs: null
   - venue: "State Library of South Australia, Adelaide"
     humandate: "31 July, 2017"
@@ -380,8 +382,9 @@ workshops:
     longitude: 138.6001495
     who: "Belinda Weaver, Liz Walkley-Hall, Amanda Nixon"
     numbers: null
-    what: "Jargon busting, RegEx, Shell, Open Refine"
+    what: "Jargon busting, regex, Shell, Open Refine"
     notes: "This is one of a series of workshops funded by NSLA."
+    url: "https://weaverbel.github.io/nsla-roadshow/"
     blogs: null
   - venue: "State Library of NSW, Sydney"
     humandate: "14 August, 2017"
@@ -391,8 +394,9 @@ workshops:
     longitude: 151.2106624
     who: "Belinda Weaver"
     numbers: null
-    what: "Jargon busting, RegEx, Shell, Open Refine"
+    what: "Jargon busting, regex, Shell, Open Refine"
     notes: "This is one of a series of workshops funded by NSLA."
+    url: "https://weaverbel.github.io/nsla-roadshow/"
     blogs: null
   - venue: "National Library of Australia, Canberra"
     humandate: "21 August, 2017"
@@ -402,8 +406,9 @@ workshops:
     longitude: 149.1276331
     who: "Belinda Weaver"
     numbers: null
-    what: "Jargon busting, RegEx, Shell, Open Refine"
+    what: "Jargon busting, regex, Shell, Open Refine"
     notes: "This is one of a series of workshops funded by NSLA."
+    url: "https://weaverbel.github.io/nsla-roadshow/"
     blogs: null
   - venue: "State Library of Western Australia, Perth"
     humandate: "28 August, 2017"
@@ -413,7 +418,7 @@ workshops:
     longitude: 115.8583056
     who: "Belinda Weaver"
     numbers: null
-    what: "Jargon busting, RegEx, Shell, Open Refine"
+    what: "Jargon busting, regex, Shell, Open Refine"
     notes: "This is one of a series of workshops funded by NSLA."
     blogs: null
   - venue: "Library Carpentry, South Africa"
@@ -424,7 +429,7 @@ workshops:
     longitude: 28.0306693
     who: "Belinda Weaver"
     numbers: null
-    what: "Jargon busting, RegEx, Shell, Open Refine"
+    what: "Jargon busting, regex, Shell, Open Refine"
     url: "https://nwu-digitalhumanities.github.io/2017-09-30-lc-south-africa/"
     notes: "This is a weekend workshop at the University of the Witwatersrand to introduce Library Carpentry."
     blogs: null   
