@@ -350,16 +350,71 @@ workshops:
     what: "Shell, Git, Refine"
     url: "https://sussexlibrarycarpentry.eventbrite.co.uk"
     blogs: null
-  - venue: "QUT Library, Brisbane"
-    humandate: "November TBA"
+  - venue: "LINC Tasmania, Hobart"
+    humandate: "17 July, 2017"
     start: null
     end: null
-    latitude: -27.478225
-    longitude: 153.027845
-    who: "Catherine Haden. Tricia Kelly"
+    latitude: -42.881679
+    longitude: 147.3227953
+    who: "Belinda Weaver"
     numbers: null
-    what: "Mainly Open Refine - these are people I taught at my workshop"
-    notes: null
+    what: "Jargon busting, RegEx, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
+    blogs: null
+  - venue: "State Library of Queensland, Brisbane"
+    humandate: "19 July, 2017"
+    start: null
+    end: null
+    latitude: -27.4711579
+    longitude: 153.0159242
+    who: "Belinda Weaver, Sam Hames"
+    numbers: null
+    what: "Jargon busting, RegEx, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
+    blogs: null
+  - venue: "State Library of South Australia, Adelaide"
+    humandate: "31 July, 2017"
+    start: null
+    end: null
+    latitude: -34.92034
+    longitude: 138.6001495
+    who: "Belinda Weaver, Liz Walkley-Hall, Amanda Nixon"
+    numbers: null
+    what: "Jargon busting, RegEx, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
+    blogs: null
+  - venue: "State Library of NSW, Sydney"
+    humandate: "14 August, 2017"
+    start: null
+    end: null
+    latitude: -33.86686
+    longitude: 151.2106624
+    who: "Belinda Weaver"
+    numbers: null
+    what: "Jargon busting, RegEx, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
+    blogs: null
+  - venue: "National Library of Australia, Canberra"
+    humandate: "21 August, 2017"
+    start: null
+    end: null
+    latitude: -35.2966195
+    longitude: 149.1276331
+    who: "Belinda Weaver"
+    numbers: null
+    what: "Jargon busting, RegEx, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
+    blogs: null
+  - venue: "State Library of Western Australia, Perth"
+    humandate: "28 August, 2017"
+    start: null
+    end: null
+    latitude: -31.9488801
+    longitude: 115.8583056
+    who: "Belinda Weaver"
+    numbers: null
+    what: "Jargon busting, RegEx, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
     blogs: null
   - venue: "Curtin University, Western Australia"
     humandate: "Q2 2017"
