@@ -17,7 +17,7 @@ This is our full list of current lessons, along with their status.
 
 ## Statuses
 
-Core
+Stable
 : These lessons are mature and ready to be taught. The content is
 well-established, but minor changes and improvements are always
 welcome.
@@ -44,9 +44,9 @@ Our recommended process for developing a new lesson is as follows:
 4. Propose your lesson for the incubator by making a pull request (PR) against [the Library Carpentry website][website], adding a link to your lesson repository as an *alpha* lesson
 5. Discuss the lesson with the community and if necessary offer suggestions on how to improve the lesson; if the lesson is considered suitable material for the Library Carpentry curriculum a website maintainer will merge your PR into the main site
 6. You and others will teach the lesson, collect feedback & improve the content
-7. Propose your lesson for beta/core by making a pull request against [the Library Carpentry website][website], updating the status of your lesson
+7. Propose your lesson for beta/stable by making a pull request against [the Library Carpentry website][website], updating the status of your lesson
 8. Discuss the lesson further with the community; when the lesson is ready, a website maintainer will merge your PR
-9. Congratulations! Your lesson is now part of core LC
+9. Congratulations! Your lesson is now part of stable LC
 
 [lesson template]: https://github.com/swcarpentry/lesson-example
 [website]: https://github.com/librarycarpentry/librarycarpentry.github.io
@@ -58,7 +58,7 @@ In order to maintain consistent quality and style in the Library Carpentry lesso
 
 [lesson dev]: http://swcarpentry.github.io/instructor-training/19-lessons/
 
-All core lessons should:
+All stable lessons should:
 
 1. have at least two active maintainers
 2. include a short learner profile
