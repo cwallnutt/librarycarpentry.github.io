@@ -19,16 +19,20 @@ This is our full list of current lessons, along with their status.
 
 Stable
 : These lessons are mature and ready to be taught. The content is
-well-established, but minor changes and improvements are always
+well-established, but minor changes and improvements (e.g. better
+explanations, spelling/grammar corrections, improved exercises) are always
 welcome.
 
 Beta
 : These lessons are largely complete and should be ready to teach, and
-would benefit from improvements based on the experience of instructors
+would benefit from improvements based on the experience of instructors. New
+sections and rewrites/reorganisations of existing sections will be considered.
 
 Alpha
-: These lessons are under active development and may not be ready to
-teach without additional preparation and background knowledge.
+: These lessons are under active development and may not be ready to teach
+without additional preparation and background knowledge. Further development
+work is strongly encouraged - get in touch or check out outstanding issues on
+GitHub to find out what's needed.
 
 All contributions are welcome, but if you would like to focus your
 efforts where they are most needed, take a look at the alpha and
