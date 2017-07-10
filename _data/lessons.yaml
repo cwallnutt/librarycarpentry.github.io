@@ -11,11 +11,13 @@
         Introduces the Unix-style command line interface, allowing you
         to efficiently work with directories and files, and find and
         manipulate data.
+      repo: https://github.com/data-lessons/library-shell
       web: https://data-lessons.github.io/library-shell/
 
     - title: OpenRefine
       description: |
         An introduction to cleaning and enhancing data in OpenRefine.
+      repo: https://github.com/data-lessons/library-openrefine
       web: https://data-lessons.github.io/library-openrefine/
 
 - status: Beta
@@ -24,11 +26,13 @@
       description: |
         Introduces the Git version control system and the GitHub
         collaboration tool.
+      repo: https://github.com/data-lessons/library-git
       web: https://data-lessons.github.io/library-git/
 
     - title: Structured Query Language (SQL)
       description: |
         Introduces relational database management system using SQLite.
+      repo: https://github.com/data-lessons/library-sql
       web: https://data-lessons.github.io/library-sql/
     
 - status: Alpha
@@ -36,23 +40,27 @@
     - title: Webscraping
       description: |
         Web scraping is the process of extracting data from websites.
+      repo: https://github.com/data-lessons/library-webscraping
       web: https://data-lessons.github.io/library-webscraping/
 
     - title: Tidy data & spreadsheets
       description: |
         Good data organization is the foundation of much of our
         day-to-day work in libraries.
+      repo: https://github.com/jezcope/library-spreadsheets
       web: https://jezcope.github.io/library-spreadsheets
 
     - title: Introduction to programming with Python
       description: |
         Python is a general purpose programming language that supports
         rapid development of scripts and applications.
+      repo: https://github.com/data-lessons/library-python-intro
       web: https://data-lessons.github.io/library-python-intro/
 
     - title: Data Intro for Archivists
       description: |
         This Library Carpentry lesson introduces archivists to working
         with data.
+      repo: https://github.com/data-lessons/data-intro-archives
       web: https://data-lessons.github.io/data-intro-archives/
     
