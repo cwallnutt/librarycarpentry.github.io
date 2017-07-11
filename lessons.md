@@ -24,7 +24,7 @@ explanations, spelling/grammar corrections, improved exercises) are always
 welcome.
 
 Beta
-: These lessons are largely complete and should be ready to teach, and
+: These lessons are largely complete and should be ready to teach, but
 would benefit from improvements based on the experience of instructors. New
 sections and rewrites/reorganisations of existing sections will be considered.
 
