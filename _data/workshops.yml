@@ -386,13 +386,25 @@ workshops:
     notes: "This is one of a series of workshops funded by NSLA."
     url: "https://weaverbel.github.io/nsla-roadshow/"
     blogs: null
+  - venue: "State Library of Victoria, Melbourne"
+    humandate: "7 August, 2017"
+    start: null
+    end: null
+    latitude: -37.8098087
+    longitude: 144.963001
+    who: "Belinda Weaver, Aimee Said"
+    numbers: null
+    what: "Jargon busting, regex, Shell, Open Refine"
+    notes: "This is one of a series of workshops funded by NSLA."
+    url: "https://weaverbel.github.io/nsla-roadshow/"
+    blogs: null
   - venue: "State Library of NSW, Sydney"
     humandate: "14 August, 2017"
     start: null
     end: null
     latitude: -33.86686
     longitude: 151.2106624
-    who: "Belinda Weaver"
+    who: "Belinda Weaver, Weisi Chen"
     numbers: null
     what: "Jargon busting, regex, Shell, Open Refine"
     notes: "This is one of a series of workshops funded by NSLA."
