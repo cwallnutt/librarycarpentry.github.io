@@ -269,7 +269,7 @@ workshops:
     end: 2017-05-15
     latitude: 42.363042
     longitude: -71.08616099999999
-    who: "Belinda Weaver, Julianna Schneider"
+    who: "Belinda Weaver, Juliane Schneider"
     numbers: 30
     url: "https://weaverbel.github.io/2017-05-11-lc-boston/"
     notes: "Regex, bash, refine"
@@ -338,7 +338,6 @@ workshops:
     url: "http://nls8.com/wp-content/uploads/2017/02/Draft_Program_NLS8_v5_Febuary_2017.pdf"
     notes: "Parts of 1 and 4"
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "University of Sussex"
     humandate: "12 July 2017"
     start: null
@@ -374,6 +373,7 @@ workshops:
     notes: "This is one of a series of workshops funded by NSLA."
     url: "https://weaverbel.github.io/nsla-roadshow/"
     blogs: null
+ - &id_ws_future # future workshops: move this line down as time passes
   - venue: "State Library of South Australia, Adelaide"
     humandate: "31 July, 2017"
     start: null
