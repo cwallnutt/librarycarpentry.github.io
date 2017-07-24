@@ -373,7 +373,7 @@ workshops:
     notes: "This is one of a series of workshops funded by NSLA."
     url: "https://weaverbel.github.io/nsla-roadshow/"
     blogs: null
- - &id_ws_future # future workshops: move this line down as time passes
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "State Library of South Australia, Adelaide"
     humandate: "31 July, 2017"
     start: null
