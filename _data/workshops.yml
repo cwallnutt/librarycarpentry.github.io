@@ -433,6 +433,17 @@ workshops:
     what: "Jargon busting, regex, Shell, Open Refine"
     notes: "This is one of a series of workshops funded by NSLA."
     blogs: null
+  - venue: "Curtin University, Western Australia"
+    humandate: "29 August, 2017"
+    start: null
+    end: null
+    latitude: -32.0061951
+    longitude: 115.8944182
+    who: "Belinda Weaver"
+    numbers: "~20"
+    what: "Jargon busting, regex, Shell, Open Refine"
+    notes: 
+    blogs: "n/a"
   - venue: "Library Carpentry, South Africa"
     humandate: "30 September - 1 October, 2017"
     start: null
@@ -445,16 +456,5 @@ workshops:
     url: "https://nwu-digitalhumanities.github.io/2017-09-30-lc-south-africa/"
     notes: "This is a weekend workshop at the University of the Witwatersrand to introduce Library Carpentry."
     blogs: null   
-  - venue: "Curtin University, Western Australia"
-    humandate: "Q2 2017"
-    start: null
-    end: null
-    latitude: -32.0061951
-    longitude: 115.8944182
-    who: "Janice Chan, Matthew Robinson, Marie Clarke"
-    numbers: "~20"
-    what: "All modules"
-    notes: "Spread over a couple of months, internal only"
-    blogs: "n/a"
 workshops_future: *id_ws_future
 workshops_past: *id_ws_past
