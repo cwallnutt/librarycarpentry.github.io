@@ -455,6 +455,17 @@ workshops:
     what: "Jargon busting, regex, Shell, Open Refine"
     url: "https://nwu-digitalhumanities.github.io/2017-09-30-lc-south-africa/"
     notes: "This is a weekend workshop at the University of the Witwatersrand to introduce Library Carpentry."
-    blogs: null   
+    blogs: null  
+  - venue: "The National Archives, Kew, UK"
+    start: 2017-11-07
+    end: 2017-11-07
+    eventbrite_id: ''
+    humandate: 7 November 2017
+    latitude: 51.4816
+    longitude: 0.2799
+    who: "James Baker"
+    numbers: null
+    what: "Intro, regex, Shell"
+    blogs: null
 workshops_future: *id_ws_future
 workshops_past: *id_ws_past
