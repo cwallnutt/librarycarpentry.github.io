@@ -356,7 +356,7 @@ workshops:
     latitude: -42.881679
     longitude: 147.3227953
     who: "Belinda Weaver"
-    numbers: null
+    numbers: 26
     what: "Jargon busting, regex, Shell, Open Refine"
     notes: "This is one of a series of workshops funded by NSLA."
     url: "https://weaverbel.github.io/nsla-roadshow/"
@@ -368,24 +368,24 @@ workshops:
     latitude: -27.4711579
     longitude: 153.0159242
     who: "Belinda Weaver, Sam Hames"
-    numbers: null
+    numbers: 7
     what: "Jargon busting, regex, Shell, Open Refine"
     notes: "This is one of a series of workshops funded by NSLA."
     url: "https://weaverbel.github.io/nsla-roadshow/"
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "State Library of South Australia, Adelaide"
     humandate: "31 July, 2017"
     start: null
     end: null
     latitude: -34.92034
     longitude: 138.6001495
-    who: "Belinda Weaver, Liz Walkley-Hall, Amanda Nixon"
-    numbers: null
+    who: "Belinda Weaver, Liz Walkley-Hall, AImee Said"
+    numbers: 28
     what: "Jargon busting, regex, Shell, Open Refine"
     notes: "This is one of a series of workshops funded by NSLA."
     url: "https://weaverbel.github.io/nsla-roadshow/"
     blogs: null
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "State Library of Victoria, Melbourne"
     humandate: "7 August, 2017"
     start: null
@@ -450,7 +450,7 @@ workshops:
     end: null
     latitude: -26.1917112
     longitude: 28.0306693
-    who: "Belinda Weaver"
+    who: "Juan Steyn, Time Dennis"
     numbers: null
     what: "Jargon busting, regex, Shell, Open Refine"
     url: "https://nwu-digitalhumanities.github.io/2017-09-30-lc-south-africa/"
